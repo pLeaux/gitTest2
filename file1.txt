@@ -2,4 +2,5 @@ Initial line, before GIT
 Line2, after git add
 Line3, added after switch to tempbranch
 Line4, added from gitTest2b project (shared repo) 
+Line5, added from gitTest2 project (shared repo)
 Line6, added from gitTest2b project (shared repo)
