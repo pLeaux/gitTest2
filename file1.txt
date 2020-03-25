@@ -1,1 +1,2 @@
 Initial line, before GIT
+Line2, after git add
