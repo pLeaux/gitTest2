@@ -1,2 +1,3 @@
 Initial line, before GIT
 Line2, after git add
+Line3, added after switch to tempbranch
